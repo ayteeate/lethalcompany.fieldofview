@@ -1,5 +1,8 @@
 # lethalcompany.fieldofview
 Field of view plugin for the game Lethal Company
+DOWNLOAD:
+- Head to releases: https://github.com/ayteeate/lethalcompany.fieldofview/releases
+- Download the latest .dll
 
 INSTALLATION:
 - Requires BepInEx which can be downloaded here: https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x86_5.4.22.0.zip

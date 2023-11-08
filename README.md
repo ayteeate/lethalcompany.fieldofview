@@ -1,5 +1,6 @@
 # lethalcompany.fieldofview
 Field of view plugin for the game Lethal Company
+
 DOWNLOAD:
 - Head to releases: https://github.com/ayteeate/lethalcompany.fieldofview/releases
 - Download the latest .dll

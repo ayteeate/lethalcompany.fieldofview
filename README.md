@@ -6,8 +6,8 @@ DOWNLOAD:
 - Download the latest .dll
 
 INSTALLATION:
-- Requires BepInEx which can be downloaded here: https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x86_5.4.22.0.zip
-- Follow their instructions for installation located here: https://github.com/BepInEx/BepInEx/wiki/Installation
+- Requires BepInEx which can be downloaded here: https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip
+- Follow their instructions for installation located here: https://docs.bepinex.dev/articles/user_guide/installation/index.html#installing-bepinex-1
 - Make sure you run the game once to generate the file structure for BepInEx
 - Once that is complete you can copy the mod's .dll file to the BepInEx/plugins/ folder and launch the game and you're set
 
